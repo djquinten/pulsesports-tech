@@ -6,7 +6,7 @@ A Progressive Web App made in a project week at the Bit Academy. The Web applica
 
 To start, clone the repository:
 
-`git clone git@github.com:ldideric/pulsesports-tech.git`
+`git clone https://github.com/djquinten/pulsesports-tech.git`
 
 You can open the app on your computer by hosting the site on a server,
 or using the VSCode Extension [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
